@@ -1,10 +1,6 @@
 # vibecheck
 
-<<<<<<< HEAD
-create display's based of detected emotion from a conversation.
-=======
 create displays based off detected emotion from a conversation.
->>>>>>> 3f03787 (typos)
 
 ## step 1
 
