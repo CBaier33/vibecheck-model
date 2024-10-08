@@ -6,6 +6,10 @@ create displays based off detected emotion from a conversation.
 
 ### gather sample data for emotions
 
+// using the ravdess dataset to create the basic model
+https://zenodo.org/records/1188976#.X4sE0tDXKUl
+
+### questions
 - which emotions?
 
 - how many
@@ -15,12 +19,25 @@ create displays based off detected emotion from a conversation.
 ## step 2
 ### develop machine learning model
 
+https://github.com/MeidanGR/SpeechEmotionRecognition_Realtime/blob/main/3_realtime_ser.ipynb
+
+### questions
+
 - what model?
 
 - what language?
 
 ## step 3
-### service model
+### frontend
+
+- flutter?
+
+- creating colors?
+
+- accessing model?
+
+## step 4
+### service model to frontend
 
 - home server?
 
@@ -29,12 +46,3 @@ create displays based off detected emotion from a conversation.
 - encoding?
 
 - concurrency? (what)
-
-## step 4
-### frontend
-
-- flutter?
-
-- creating colors?
-
-- accessing model?
